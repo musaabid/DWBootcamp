@@ -53,6 +53,7 @@ Jawaban dari soal Technical Test
 ## 4. Mengapa Continous Integration/ Continous Development (CI/ CD) diperlukan DevOps? Berikan gambaran Workflow(diagram kerja) -nya!
 
 ## 5. Beri Contoh 5 beserta screenshot Penggunaan Git serta jelaskan perintah yang dijalankan!
+
 ![5 Perintah Git](https://github.com/musaabid/DWBootcamp/images/5-perintah-git.png)
 
   >  sudo apt-get install git
