@@ -2,7 +2,6 @@
 =========================
 >Ini hasil dari gue ngikutin tes teknis bootcamp batch 5 di DumbWays
 
-Disuruh naruh sini hasil kerjaannya
 
 Jawaban dari soal Technical Test
 --------------------
