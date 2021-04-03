@@ -62,14 +62,23 @@ Jawaban dari soal Technical Test
 ![5 Perintah Git](https://raw.githubusercontent.com/musaabid/DWBootcamp/main/images/5-perintah-git.png)
 
   >  sudo apt-get install git
+
   * perintah untuk menginstall git di linux
+  
   >  git config --global user.name "musaabid"
+
   * perintah untuk git agar mengenali user ini sebagai user secara global
+
   >  git config --global user.email "abidullahmusabirru@gmail.com"
+
   * perintah untuk git agar mengenali email ini sebagai user email secara global
+  
   >  git init DumbWaysBootcamp
+
   * meng-init folder di local
+
   >  git push -u origin main
+  
   * mengupload ke github
 
 
