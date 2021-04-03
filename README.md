@@ -1,6 +1,6 @@
-# MusaAbid - DumbWays Bootcamp Batch 5
+# MusaAbid - DumbWays Bootcamp
 =========================
-Ini hasil dari gue ngikutin tes bootcamp di DumbWays
+>Ini hasil dari gue ngikutin tes teknis bootcamp batch 5 di DumbWays
 
 Disuruh naruh sini hasil kerjaannya
 
@@ -8,7 +8,7 @@ Jawaban dari soal Technical Test
 --------------------
 [Gue](https://me.birru.net/ "Propil ane")
 
-1. Definisi DevOps, pentingnya DevOps serta gambaran flow DevOps dari Development sampai production
+## 1. Definisi DevOps, pentingnya DevOps serta gambaran flow DevOps dari Development sampai production
    * Definisi DevOps: alur praktik dan proses yang mempercepat serta mengautomasi berbagai proses pembangunan, testing dan juga pe-release-an sebauh software. Termasuk pula kelangsungan kerja sistem software tersebut dan juga updatenya.
    * Pentingnya DevOps: 
      - Menjadikan alur kerja dan infrastruktur pembangunan software yang mudah dan baik.
@@ -22,11 +22,11 @@ Jawaban dari soal Technical Test
      - Menganalisa kebutuhan software development
      - 
 
-**sumber**:
-- https://targetjobs.co.uk/careers-advice/job-descriptions/1043919-devops-engineer-job-description
-- https://www.simplilearn.com/devops-engineer-job-description-article
+ *sumber*:
+ - https://targetjobs.co.uk/careers-advice/job-descriptions/1043919-devops-engineer-job-description
+ - https://www.simplilearn.com/devops-engineer-job-description-article
 
-2. Gambarkan Docker & Kubernetes serta penjelasan persamaan dan perbedaanya!
+## 2. Gambarkan Docker & Kubernetes serta penjelasan persamaan dan perbedaanya!
    * Gambaran
      * Docker: system package deployment app yang membundle semua dependensi yang dibutuhkan, misal web server, database, dsb. Deployment cukup package aplikasi ke server. Dengan begitu penggunaan beberapa server tidak perlu menginstall dependensi berulang.
      * Kubernetes: system automation deployment (DevOps mengirim ke KM(Kubernetes Master) lalu KM ke KW(Kubernetes Worker) secara otomatis meski ke ribuan server), scaling dan manajemen berbasis container. Mendukung beberapa Container Manager seperti Docker.
@@ -36,24 +36,24 @@ Jawaban dari soal Technical Test
      - Kubernetes Berawal dari Virtual Machine yang merubah arsitektur (Monolith menjadi Microservices). Kubernetes dapat melakukan auto-scaling saat jumlah container melunjak.
      - Docker murni dibangun sebagai system Container Manager. Docker membutuhkan kerja manual untuk deployment & managing container.
 
-**sumber** :
-- https://www.youtube.com/watch?v=DgkOjJf5M6I&t=301s
-- https://www.youtube.com/watch?v=KrcHmVzmFN8
-- https://www.youtube.com/watch?v=ZJ1eniYvoXE
+ *sumber* :
+ - https://www.youtube.com/watch?v=DgkOjJf5M6I&t=301s
+ - https://www.youtube.com/watch?v=KrcHmVzmFN8
+ - https://www.youtube.com/watch?v=ZJ1eniYvoXE
 
-3. Rekam sebuah Video cara menjalankan dua aplikasi dengan port yang sama secara berdampingan!
-4. Mengapa Continous Integration/ Continous Development (CI/ CD) diperlukan DevOps? Berikan gambaran Workflow(diagram kerja) -nya!
-5. a
-6. a
-7. a
-8. a 
-
-
+## 3. Rekam sebuah Video cara menjalankan dua aplikasi dengan port yang sama secara berdampingan!
+## 4. Mengapa Continous Integration/ Continous Development (CI/ CD) diperlukan DevOps? Berikan gambaran Workflow(diagram kerja) -nya!
+## 5. Beri Contoh 5 beserta screenshot Penggunaan Git serta jelaskan perintah yang dijalankan!
+## 6. a
+## 7. a
+## 8. a 
 
 
 
 
 
+Akhir kata
+-----
 **sumber**:
 * instalasi dan sebagainya:
     - https://docs.microsoft.com/en-us/windows/wsl/install-win10
