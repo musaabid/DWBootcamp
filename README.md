@@ -60,6 +60,8 @@ Jawaban dari soal Technical Test
   * meng-init folder di local
   >  git push -u origin main
   * mengupload ke github
+
+
 ## 6. a
 ## 7. a
 ## 8. a 
