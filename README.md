@@ -50,11 +50,16 @@ Jawaban dari soal Technical Test
 ## 4. Mengapa Continous Integration/ Continous Development (CI/ CD) diperlukan DevOps? Berikan gambaran Workflow(diagram kerja) -nya!
 ## 5. Beri Contoh 5 beserta screenshot Penggunaan Git serta jelaskan perintah yang dijalankan!
 ![5 Perintah Git](https://github.com/musaabid/DWBootcamp/images/5-perintah-git.png)
-    * > sudo apt-get install git
-    * > git config --global user.name "musaabid"
-    * > git config --global user.email "abidullahmusabirru@gmail.com"
-    * > git init DumbWaysBootcamp
-    * > git push -u origin main
+  >  sudo apt-get install git
+  * perintah untuk menginstall git di linux
+  >  git config --global user.name "musaabid"
+  * perintah untuk git agar mengenali user ini sebagai user secara global
+  >  git config --global user.email "abidullahmusabirru@gmail.com"
+  * perintah untuk git agar mengenali email ini sebagai user email secara global
+  >  git init DumbWaysBootcamp
+  * meng-init folder di local
+  >  git push -u origin main
+  * mengupload ke github
 ## 6. a
 ## 7. a
 ## 8. a 
