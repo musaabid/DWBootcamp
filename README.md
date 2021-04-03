@@ -9,6 +9,7 @@ Jawaban dari soal Technical Test
 [Gue](https://me.birru.net/ "Propil ane")
 
 ## 1. Definisi DevOps, pentingnya DevOps serta gambaran flow DevOps dari Development sampai production
+
    * Definisi DevOps: alur praktik dan proses yang mempercepat serta mengautomasi berbagai proses pembangunan, testing dan juga pe-release-an sebauh software. Termasuk pula kelangsungan kerja sistem software tersebut dan juga updatenya.
    * Pentingnya DevOps: 
      - Menjadikan alur kerja dan infrastruktur pembangunan software yang mudah dan baik.
@@ -32,6 +33,7 @@ Jawaban dari soal Technical Test
  - https://www.simplilearn.com/devops-engineer-job-description-article
 
 ## 2. Gambarkan Docker & Kubernetes serta penjelasan persamaan dan perbedaanya!
+
    * Gambaran
      * Docker: system package deployment app yang membundle semua dependensi yang dibutuhkan, misal web server, database, dsb. Deployment cukup package aplikasi ke server. Dengan begitu penggunaan beberapa server tidak perlu menginstall dependensi berulang.
      * Kubernetes: system automation deployment (DevOps mengirim ke KM(Kubernetes Master) lalu KM ke KW(Kubernetes Worker) secara otomatis meski ke ribuan server), scaling dan manajemen berbasis container. Mendukung beberapa Container Manager seperti Docker.
@@ -47,9 +49,12 @@ Jawaban dari soal Technical Test
  - https://www.youtube.com/watch?v=ZJ1eniYvoXE
 
 ## 3. Rekam sebuah Video cara menjalankan dua aplikasi dengan port yang sama secara berdampingan!
+
 ## 4. Mengapa Continous Integration/ Continous Development (CI/ CD) diperlukan DevOps? Berikan gambaran Workflow(diagram kerja) -nya!
+
 ## 5. Beri Contoh 5 beserta screenshot Penggunaan Git serta jelaskan perintah yang dijalankan!
 ![5 Perintah Git](https://github.com/musaabid/DWBootcamp/images/5-perintah-git.png)
+
   >  sudo apt-get install git
   * perintah untuk menginstall git di linux
   >  git config --global user.name "musaabid"
