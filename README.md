@@ -54,7 +54,7 @@ Jawaban dari soal Technical Test
 
 ## 5. Beri Contoh 5 beserta screenshot Penggunaan Git serta jelaskan perintah yang dijalankan!
 
-![5 Perintah Git](https://github.com/musaabid/DWBootcamp/images/5-perintah-git.png)
+![5 Perintah Git](https://github.com/musaabid/DWBootcamp/blob/main/images/5-perintah-git.png)
 
   >  sudo apt-get install git
   * perintah untuk menginstall git di linux
