@@ -19,8 +19,13 @@ Jawaban dari soal Technical Test
      - Menyingkronisasikan simponi kerja antara software developers dengan software engineers agar bekerja sesuai dengan proses yang sesuai dan diperlukan.
      - Menganalisa alur kerja proyek dan menjadi acuan dalam pengambilan keputusan dalam pembangunan software.
    * Gambaran flow DevOps dari Development sampai Production: 
-     - Menganalisa kebutuhan software development
-     - 
+     - Perencanaan
+     - Penentuan Bahasa pemrograman yagn dipakai
+     - Pembuatan
+     - Testing hasil pemrograman prototype
+     - Release software
+     - Deploying
+     - Operate
 
  *sumber*:
  - https://targetjobs.co.uk/careers-advice/job-descriptions/1043919-devops-engineer-job-description
@@ -44,6 +49,12 @@ Jawaban dari soal Technical Test
 ## 3. Rekam sebuah Video cara menjalankan dua aplikasi dengan port yang sama secara berdampingan!
 ## 4. Mengapa Continous Integration/ Continous Development (CI/ CD) diperlukan DevOps? Berikan gambaran Workflow(diagram kerja) -nya!
 ## 5. Beri Contoh 5 beserta screenshot Penggunaan Git serta jelaskan perintah yang dijalankan!
+![5 Perintah Git](https://github.com/musaabid/DWBootcamp/images/5-perintah-git.png)
+    * > sudo apt-get install git
+    * > git config --global user.name "musaabid"
+    * > git config --global user.email "abidullahmusabirru@gmail.com"
+    * > git init DumbWaysBootcamp
+    * > 
 ## 6. a
 ## 7. a
 ## 8. a 
@@ -52,7 +63,7 @@ Jawaban dari soal Technical Test
 
 
 
-Akhir kata
+Penutup
 -----
 **sumber**:
 * instalasi dan sebagainya:
