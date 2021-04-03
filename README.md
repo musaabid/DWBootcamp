@@ -54,7 +54,7 @@ Jawaban dari soal Technical Test
     * > git config --global user.name "musaabid"
     * > git config --global user.email "abidullahmusabirru@gmail.com"
     * > git init DumbWaysBootcamp
-    * > 
+    * > git push -u origin main
 ## 6. a
 ## 7. a
 ## 8. a 
