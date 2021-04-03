@@ -52,6 +52,9 @@ Jawaban dari soal Technical Test
 
 ## 4. Mengapa Continous Integration/ Continous Development (CI/ CD) diperlukan DevOps? Berikan gambaran Workflow(diagram kerja) -nya!
 
+ * CI: DevOps akan mengedit code dan tentu tidak hanya satu orang saja, kemudian juga diedit bersama. maka diperlukan adanya CI agar secara berkesinambungan tetap terjaga kualitas kerja software yang dikembangkan.
+ * CD: 
+
 ## 5. Beri Contoh 5 beserta screenshot Penggunaan Git serta jelaskan perintah yang dijalankan!
 
 ![5 Perintah Git](https://raw.githubusercontent.com/musaabid/DWBootcamp/main/images/5-perintah-git.png)
