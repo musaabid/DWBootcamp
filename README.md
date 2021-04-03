@@ -69,7 +69,14 @@ Jawaban dari soal Technical Test
 
 
 ## 6. a
-## 7. a
+
+## 7. Apa itu Reverse Proxy? Bagaimana cara kerja serta gambarannya?
+
+![Reverse Proxy](https://raw.githubusercontent.com/musaabid/DWBootcamp/main/images/Reverse-proxy.png)
+
+Client tidak mengetahui server mana yang terkoneksi padanya.
+Misal: Menggunakan google, google akan memilih server yang longgar untuk menghubungkannya kesana. Google yg memiliki ip address reverse proxy akan menanggapi server ini sebagai pihak yang akan membantu client.
+
 ## 8. a 
 
 
