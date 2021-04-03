@@ -57,6 +57,9 @@ Jawaban dari soal Technical Test
  * CI: DevOps akan mengedit code dan tentu tidak hanya satu orang saja, kemudian juga diedit bersama. maka diperlukan adanya CI agar secara berkesinambungan tetap terjaga kualitas kerja software yang dikembangkan.
  * CD: 
 
+ *sumber*:
+ - https://www.redhat.com/en/topics/devops/what-is-ci-cd
+
 ## 5. Beri Contoh 5 beserta screenshot Penggunaan Git serta jelaskan perintah yang dijalankan!
 
 ![5 Perintah Git](https://raw.githubusercontent.com/musaabid/DWBootcamp/main/images/5-perintah-git.png)
@@ -78,7 +81,7 @@ Jawaban dari soal Technical Test
   * meng-init folder di local
 
   >  git push -u origin main
-  
+
   * mengupload ke github
 
 
@@ -90,6 +93,9 @@ Jawaban dari soal Technical Test
 
 Client tidak mengetahui server mana yang terkoneksi padanya.
 Misal: Menggunakan google, google akan memilih server yang longgar untuk menghubungkannya kesana. Google yg memiliki ip address reverse proxy akan menanggapi server ini sebagai pihak yang akan membantu client.
+
+ *sumber*:
+ - https://www.youtube.com/watch?v=ozhe__GdWC8
 
 ## 8. a 
 
